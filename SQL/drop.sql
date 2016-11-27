@@ -1,0 +1,12 @@
+drop table ForfaitCentraling;
+drop table Dispatching;
+drop table Garer;
+drop table Retour;
+drop table Location;
+drop table Vehicule;
+drop table ForfaitDuree;
+drop table ForfaitLocation;
+drop table Forfait;
+drop table Abonnees;
+drop table TypeVehicule;
+drop table Station;

@@ -1,0 +1,14 @@
+
+Pour compiler l'application il suffit de faire 'make' dans le repertoire JAVA, l'execution se fait grâce à la commande 'make exe'
+
+--> le répertoir JAVA contient l'ensemble des codes java que nous avons implémenté.
+--> le répertoir SQL contient l'ensemble des requêtes SQL et un fichier requete.sql qui décrit ce qu'on fait
+
+
+--> le fichier 'projetBd.sql' contient les requete permettant de créer les tables
+--> le fichier 'test.sql' contient les requete permettant de peupler la base.
+
+--> le fichier 'requete.odt' decrit un peu plus en detail les autres requetes
+
+
+--> les fichiers 'projetBd0.sql' et 'test0.sql' permettent normalement (car nous n'avons pas vraiment reussi à les faire fonctionner) de créer des tables avec des options 'ON DELETE SET NULL' et 'ON UPDATE CASCADE'. 
